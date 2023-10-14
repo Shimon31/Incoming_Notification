@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "206478472518",
+    "project_id": "notification-testing-3547d",
+    "storage_bucket": "notification-testing-3547d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206478472518:android:443f0c2d7e87a434596147",
+        "android_client_info": {
+          "package_name": "com.example.shimon.notification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsm9IvOatCM-8nO_5wSf9xMKXFooArqFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
